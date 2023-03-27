@@ -12,6 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;. \
 🌱 &nbsp; I’m currently learning more about \
+
+> Majoring in Systems Analysis and Development at UNIP(Universidade Paulista)
+
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; (LPIC1, LFD301, LPIC2) and other cool stuff like 
 ![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux)&nbsp;\
@@ -69,4 +72,4 @@
 
 -----
 <img src="https://github.com/CrisMorgantee/crismorgantee/blob/main/gitprofile.gif" alt="Profile gif" />
-<p>Last Edited on: 01/03/2022</p>
+<p>Last Edited on: 27/03/2023</p>
