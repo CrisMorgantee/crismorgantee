@@ -13,7 +13,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;. \
 🌱 &nbsp; I’m currently learning more about \
 
-> Majoring in Systems Analysis and Development at UNIP(Universidade Paulista)
+> Majoring in Systems Analysis and Development at UNICESUMAR
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; (LPIC1, LFD301, LPIC2) and other cool stuff like 
 ![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
@@ -37,6 +37,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -47,16 +53,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
 ![ApolloGraphql](https://img.shields.io/badge/-ApolloGraphql-05122A?style=flat&logo=apollographql)&nbsp; \
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=postgresql)&nbsp; \
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -72,4 +72,4 @@
 
 -----
 <img src="https://github.com/CrisMorgantee/crismorgantee/blob/main/gitprofile.gif" alt="Profile gif" />
-<p>Last Edited on: 27/03/2023</p>
+<p>Last Edited on: 16/10/2023</p>
