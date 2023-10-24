@@ -13,11 +13,12 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;. \
 🌱 &nbsp; I’m currently learning more about \
 
-> Majoring in Systems Analysis and Development at UNICESUMAR
-
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; (LPIC1, LFD301, LPIC2) and other cool stuff like 
 ![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux)&nbsp;\
+
+> Majoring in Systems Analysis and Development at UNICESUMAR
+> 
 💡 &nbsp; I like to explore new technologies.\
 ✍️ &nbsp; In my free time, I pursue ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;.\
