@@ -44,8 +44,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-php-storm)
-![PhpStorm](https://img.shields.io/badge/phpstorm-laravel)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
