@@ -22,7 +22,7 @@
 💡 &nbsp; I like to explore new technologies.\
 ✍️ &nbsp; In my free time, I pursue ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;.\
-✉️ &nbsp; You can shoot me an email at cristianomorgante@hotmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp; You can shoot me an email at cristiano@morgante.com.br! I'll try to respond as soon as I can.\
 💬 &nbsp; Ask me about anything. \
 📄 &nbsp; Please have a look at my [LinkedIn](https://linkedin.com/in/crismorgantee) for more details about me. I'm open to feedback and suggestions! \
 💬 &nbsp; Feel free to reach out to me for a formal or just for some interesting chat.
@@ -32,7 +32,7 @@
 
 <a href="https://cristianomorgante.netlify.app/"><img src="https://img.shields.io/badge/-cristianomorgante.com.br-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/crismorgantee"><img src="https://img.shields.io/badge/-crismorgantee-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:cristianomorgante@hotmail.com"><img src="https://img.shields.io/badge/-cristianomorgante@hotmail.com-0078d4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="mailto:cristiano@morgante.com.br"><img src="https://img.shields.io/badge/-cristiano@morgante.com.br-0078d4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="https://instagram.com/crismorgantee"><img src="https://img.shields.io/badge/-crismorgantee-b21ad3?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/crismorgantee"><img src="https://img.shields.io/badge/-CrisMorgantee-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
@@ -44,6 +44,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![LunarVim](https://img.shields.io/badge/-LunarVim-05122A?style=flat&logo=neovim)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-php-storm)
+![PhpStorm](https://img.shields.io/badge/phpstorm-laravel)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -73,4 +75,4 @@
 
 -----
 <img src="https://github.com/CrisMorgantee/crismorgantee/blob/main/gitprofile.gif" alt="Profile gif" />
-<p>Last Edited on: 16/10/2023</p>
+<p>Last Edited on: 20/03/2024</p>
